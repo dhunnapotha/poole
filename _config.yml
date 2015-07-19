@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Gautam Chandra
+tagline:             ""
+url:                 ""
 paginate:            1
 baseurl:             ""
 
@@ -28,3 +28,8 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
+
+
+pages_list:       
+  About: '/'
+  Blog: '/blog'

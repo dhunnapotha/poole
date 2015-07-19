@@ -1,0 +1,40 @@
+.masthead-title{
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+  .nav-bar {
+    font-family: Montserrat, sans-serif;
+    margin: 0 0 0.5rem -0.1rem /* align left edge */;
+    line-height: 1;
+    color: #111;
+    text-rendering: optimizeLegibility;
+
+    a {
+      color: inherit;
+    }
+  }
+
+}
+
+footer {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+
+body {
+  margin-top: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.highlight {
+  padding: 0px;
+  .ss{
+    color: #a87500;
+  }
+}
+
+
