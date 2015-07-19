@@ -5,10 +5,9 @@ layout: default
 # Hello, I'm Gautam Chandra
 
 ### A bit about me
-* 2008 IIIT-Hyderabad Graduate.
-* I love to code in Ruby and Javascript.
-* Ardent believer of Agile methodologies.
-* Hardcore fan of [Rocket](https://en.wikipedia.org/wiki/Rocket_Raccoon).
+* 2008 IIIT-Hyderabad Graduate
+* Specialist in Rails, Ruby and Javascript
+* Ardent believer of Agile methodologies
 
 ### What I do these days
 * Ruby on Rails Consulting.
@@ -21,8 +20,4 @@ Feel free to get in touch with me at [gautam4you@gmail.com](mailto:gautam4you@gm
 ### My Past
 * 7+ years of experience in designing and developing applications in various fields, viz. Web Development, Infrastructure Automation, Embedded space and Voip Networking.
 * I co-founded [Moontara](https://www.linkedin.com/company/moontara-technovations-pvt-ltd) which was operational for 2+ years.
-
-
-### Handles
-* [Github](https://github.com/dhunnapotha)
 
